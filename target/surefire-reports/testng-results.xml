@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Tests" duration-ms="12488" started-at="2015-10-27T15:29:47Z" finished-at="2015-10-27T15:29:59Z">
+    <groups>
+    </groups>
+    <test name="Test1" duration-ms="12488" started-at="2015-10-27T15:29:47Z" finished-at="2015-10-27T15:29:59Z">
+      <class name="zolota.Login">
+        <test-method status="PASS" signature="init()[pri:0, instance:zolota.Login@39ba5a14]" name="init" is-config="true" duration-ms="8171" started-at="2015-10-27T17:29:47Z" finished-at="2015-10-27T17:29:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="testUntitled()[pri:0, instance:zolota.Login@39ba5a14]" name="testUntitled" duration-ms="4298" started-at="2015-10-27T17:29:55Z" finished-at="2015-10-27T17:29:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUntitled -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:zolota.Login@39ba5a14]" name="tearDown" is-config="true" duration-ms="1253" started-at="2015-10-27T17:30:00Z" finished-at="2015-10-27T17:30:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- zolota.Login -->
+    </test> <!-- Test1 -->
+  </suite> <!-- Tests -->
+</testng-results>
